@@ -4,4 +4,4 @@
 
 Сборка собственного контейнера с веб-сервером
 
-![olaf](/img/olaf.webp)
+![olaf](/img/result.png)
